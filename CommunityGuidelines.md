@@ -52,4 +52,13 @@ General spamming, trolling, nsfw content is not acceptable in any channel accept
 
 **Understand this means the community leadership will not act on any event/information presented in this channel.**
 
+# Releasing
+
+When posting any release for the community, please be mindful to post in the appropriate areas (e.g. `#tools` or `#clients`) of the discord / github. Releases must be original works (not including 3rd party softwares like server bins etc) or be released with provable permission from the original creator and/or all appropriately involved parties of the project. Also, always check the pinned messages of the release channel for any posting guide-lines that may be applicable.
+
+> **Note:** Any releases not following their channels posting guide-lines will be removed without notice.
+
+Also be aware, the rzLabs Community leadership assumes absolutely zero reponsibility for the implied/explicit content/quality or value of any posted works past verifying that any given post meets community guide-lines. You should not expect leadership or any community member to provide support for any releases made. *(This includes the original poster)*
+
+> **Note:** Releasing content engineered and/or modified in such a way as to compromise the users security or safety is **strictly prohibited** and will result in **immediate** and **permenant** bans without notice.
 
