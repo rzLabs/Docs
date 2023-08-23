@@ -1,0 +1,21 @@
+```cpp
+	enum		QuestType
+	{
+		QUEST_MISC							= 100,		// 그때 그때 다른 퀘스트, 스크립트로 동작
+		QUEST_KILL_TOTAL					= 101,		// 처치 : 통합
+		QUEST_KILL_INDIVIDUAL				= 102,		// 처치 : 각각
+		QUEST_COLLECT						= 103,		// 수집
+		QUEST_HUNT_ITEM						= 106,		// 수집 : 사냥
+		QUEST_HUNT_ITEM_FROM_ANY_MONSTERS	= 107,		// 수집 : 사냥(어떠한 몬스터든)
+		QUEST_KILL_PLAYER					= 108,		// 처치 : 유저
+		QUEST_LEARN_SKILL					= 201,		// 스킬 배우기
+		QUEST_UPGRADE_ITEM					= 301,		// 아이템 레벨업
+		QUEST_ENHANCE_ITEM					= 302,		// 아이템 강화
+		QUEST_CONTACT						= 401,		// 만나기
+		QUEST_JOB_LEVEL						= 501,		// 잡레벨 올리기
+		QUEST_PARAMETER						= 601,		// 파라미터 설정
+		QUEST_EXTERNAL_CONTROL				= 701,		// 외부제어(set_quest_status 스크립트 함수에 의해서만 완료 가능)
+		QUEST_RANDOM_KILL_INDIVIDUAL		= 901,		// 랜덤 : 처치 : 각각
+		QUEST_RANDOM_COLLECT				= 902,		// 랜덤 : 수집
+	};
+```
